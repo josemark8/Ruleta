@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(/image/fondo.png);
+    background-image: url(../image/fondo.png);
 }
 .vara {
     height: 70px;
